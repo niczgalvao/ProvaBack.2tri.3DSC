@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titulo": "A Origem",
+    "ano": 2010,
+    "genero": "Ficção Científica",
+    "diretor": "Christopher Nolan",
+    "imdb": 8.8
+  },
+  {
+    "id": 2,
+    "titulo": "Interestelar",
+    "ano": 2014,
+    "genero": "Ficção Científica",
+    "diretor": "Christopher Nolan",
+    "imdb": 8.7
+  },
+  {
+    "id": 3,
+    "titulo": "Titanic",
+    "ano": 1997,
+    "genero": "Romance",
+    "diretor": "James Cameron",
+    "imdb": 7.9
+  },
+  {
+    "id": 4,
+    "titulo": "Avatar",
+    "ano": 2009,
+    "genero": "Aventura",
+    "diretor": "James Cameron",
+    "imdb": 7.9
+  },
+  {
+    "id": 5,
+    "titulo": "Vingadores: Ultimato",
+    "ano": 2019,
+    "genero": "Ação",
+    "diretor": "Anthony e Joe Russo",
+    "imdb": 8.4
+  },
+  {
+    "id": 6,
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "genero": "Animação",
+    "diretor": "John Lasseter",
+    "imdb": 8.3
+  },
+  {
+    "id": 7,
+    "titulo": "Shrek",
+    "ano": 2001,
+    "genero": "Animação",
+    "diretor": "Andrew Adamson",
+    "imdb": 7.9
+  },
+  {
+    "id": 8,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "genero": "Fantasia",
+    "diretor": "Peter Jackson",
+    "imdb": 8.9
+  },
+  {
+    "id": 9,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "ano": 2001,
+    "genero": "Fantasia",
+    "diretor": "Chris Columbus",
+    "imdb": 7.7
+  },
+  {
+    "id": 10,
+    "titulo": "Jurassic Park",
+    "ano": 1993,
+    "genero": "Aventura",
+    "diretor": "Steven Spielberg",
+    "imdb": 8.2
+  }
+]
